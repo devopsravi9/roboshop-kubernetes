@@ -79,5 +79,3 @@ INSTANCE_COUNT = {
   }
 }
 
-//EKS
-VALUE = "true"
