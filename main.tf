@@ -78,5 +78,5 @@ module "EKS" {
   MAX_SIZE                 = 4
   MIN_SIZE                 = 2
   CREATE_ALB_INGRESS       = true
-  CREATE_EXTERNAL_SECRETS  = true
+  CREATE_EXTERNAL_SECRETS  = var.SECRET
 }

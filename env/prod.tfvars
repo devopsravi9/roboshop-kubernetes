@@ -78,3 +78,6 @@ INSTANCE_COUNT = {
     INSTANCE_TYPE = "t3.micro"
   }
 }
+
+//EKS
+VALUE = "true"
