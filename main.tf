@@ -77,6 +77,6 @@ module "EKS" {
   DESIRED_SIZE            = 2
   MAX_SIZE                = 4
   MIN_SIZE                = 2
-  CREATE_ALB_INGRESS      = true
+  //CREATE_ALB_INGRESS      = true
   // CREATE_EXTERNAL_SECRETS = true
 }
